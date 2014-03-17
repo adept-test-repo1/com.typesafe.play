@@ -1,0 +1,86 @@
+[ {
+  "id" : "scala-io-core_2.10",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "0367aca53158b8ac92c771b8f71554a8cdc3aad3",
+  "variant" : "a251a71617948e5ae486600be1af516d87d183e36a792c336e6b90660ff987bc"
+}, {
+  "id" : "scala-io-core_2.10/config/compile",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "0367aca53158b8ac92c771b8f71554a8cdc3aad3",
+  "variant" : "c6c6f68eab3885c8ac9ce0fcea57f05f93260e3e1721f91155924d7c1e87a0ce"
+}, {
+  "id" : "scala-io-core_2.10/config/master",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "0367aca53158b8ac92c771b8f71554a8cdc3aad3",
+  "variant" : "88e5328e259ba3303b94a85372f98b342f5a85dcfd03d24f998518a3940fc98f"
+}, {
+  "id" : "scala-io-core_2.10/config/runtime",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "0367aca53158b8ac92c771b8f71554a8cdc3aad3",
+  "variant" : "70d4623b5e68b442dd8747b297e586701698778ae65bc21965ae9c4830fe9363"
+}, {
+  "id" : "scala-io-file_2.10",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "0367aca53158b8ac92c771b8f71554a8cdc3aad3",
+  "variant" : "534b8a51ee78c8840954a5404917ff68d02b48ff360dd0e8baadbac4513fc64d"
+}, {
+  "id" : "scala-io-file_2.10/config/compile",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "0367aca53158b8ac92c771b8f71554a8cdc3aad3",
+  "variant" : "fd4981bea65f910c73801dac6d6ddacedf7fe3adfe303d213ef3e96e738cb8b1"
+}, {
+  "id" : "scala-io-file_2.10/config/master",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "0367aca53158b8ac92c771b8f71554a8cdc3aad3",
+  "variant" : "e7aaaeb8a85200f6e273369c7c66e39957bdc94902c0b315e7e4ce3085c06741"
+}, {
+  "id" : "scala-io-file_2.10/config/runtime",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "0367aca53158b8ac92c771b8f71554a8cdc3aad3",
+  "variant" : "cf4831bbb95e13e2bada1c116422174aac8e41ab497acd82c3a633868c1868f5"
+}, {
+  "id" : "scala-arm_2.10",
+  "repository" : "com.jsuereth",
+  "commit" : "7413def2ce2ec2fc2f19d87bfdd048b36ce4ca57",
+  "variant" : "19bbd46467e6f8ad003b1b58d77834915f6969b858f61a506ff388c06c4eeabb"
+}, {
+  "id" : "scala-arm_2.10/config/compile",
+  "repository" : "com.jsuereth",
+  "commit" : "7413def2ce2ec2fc2f19d87bfdd048b36ce4ca57",
+  "variant" : "aefaca6fe0ed3e6ee9fd30d665c440cc70473606895669fc2ca9300d013fcf94"
+}, {
+  "id" : "scala-arm_2.10/config/master",
+  "repository" : "com.jsuereth",
+  "commit" : "7413def2ce2ec2fc2f19d87bfdd048b36ce4ca57",
+  "variant" : "7c9e47307430449d45ebd988aebc077290071004151a7117f63265127dbd4f9a"
+}, {
+  "id" : "scala-arm_2.10/config/runtime",
+  "repository" : "com.jsuereth",
+  "commit" : "7413def2ce2ec2fc2f19d87bfdd048b36ce4ca57",
+  "variant" : "c4cea5bb7ad55ad41deb827db95da45c1e257a2faceb50c3c984277c79389999"
+}, {
+  "id" : "templates_2.10/config/runtime",
+  "repository" : "com.typesafe.play",
+  "commit" : "cda5d71c2d1dce7dc6854578dc30038dd5b1f73e",
+  "variant" : "f79c8953e3c853435eb354867ea1c7554672defb5cfbfe79db68ac3361ac1657"
+}, {
+  "id" : "scala-library",
+  "repository" : "org.scala-lang",
+  "commit" : "bb033e8d3cd03f7d21e95f84c4cf2cc8789fcbd4",
+  "variant" : "c85e7ffcd2aac57a4f0e6515282e34c15a7534c5b5e07a05be3ebd1437102a9e"
+}, {
+  "id" : "scala-library/config/compile",
+  "repository" : "org.scala-lang",
+  "commit" : "bb033e8d3cd03f7d21e95f84c4cf2cc8789fcbd4",
+  "variant" : "d6ca2e52b5a2ba478df339264d48374b8b846ccd9a67019bec7b9df22480a5a7"
+}, {
+  "id" : "scala-library/config/master",
+  "repository" : "org.scala-lang",
+  "commit" : "bb033e8d3cd03f7d21e95f84c4cf2cc8789fcbd4",
+  "variant" : "2a959c2c083d1c6c0d8ac7bdf758ceabcee1cff1a0a81bd66a54fdedf82c9c75"
+}, {
+  "id" : "scala-library/config/runtime",
+  "repository" : "org.scala-lang",
+  "commit" : "bb033e8d3cd03f7d21e95f84c4cf2cc8789fcbd4",
+  "variant" : "d6ca2e52b5a2ba478df339264d48374b8b846ccd9a67019bec7b9df22480a5a7"
+} ]
