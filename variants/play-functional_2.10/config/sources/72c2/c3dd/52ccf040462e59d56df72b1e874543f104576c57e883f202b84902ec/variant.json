@@ -1,0 +1,18 @@
+{
+  "attributes" : {
+    "name" : [ "play-functional_2.10" ],
+    "organization" : [ "com.typesafe.play" ],
+    "version" : [ "2.2.2" ]
+  },
+  "artifacts" : [ {
+    "hash" : "f7aab71f61136e32e80ae5ed8e0ab0f48a373d8bf33985448b10bf6cb51537af",
+    "attributes" : {
+      "configurations" : [ "sources" ]
+    },
+    "filename" : "play-functional_2.10-2.2.2-sources.jar"
+  } ],
+  "requirements" : [ {
+    "id" : "scala-library",
+    "constraints" : { }
+  } ]
+}
