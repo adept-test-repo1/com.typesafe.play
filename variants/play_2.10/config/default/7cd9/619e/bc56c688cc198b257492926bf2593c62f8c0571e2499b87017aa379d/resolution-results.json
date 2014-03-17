@@ -1,0 +1,806 @@
+[ {
+  "id" : "logback-classic",
+  "repository" : "ch.qos.logback",
+  "commit" : "abbec95fdbef9ab7f3ee810acc79be5a2e43726e",
+  "variant" : "76be7749cabe9e6b0fbb5b13273120b3adc281014c080096cf6543648d5cd71b"
+}, {
+  "id" : "logback-classic/config/compile",
+  "repository" : "ch.qos.logback",
+  "commit" : "abbec95fdbef9ab7f3ee810acc79be5a2e43726e",
+  "variant" : "f0c056d0038fc7d146c788d898ff6b1bda0cd1c566a5e7065e59f5a013fdc075"
+}, {
+  "id" : "logback-classic/config/master",
+  "repository" : "ch.qos.logback",
+  "commit" : "abbec95fdbef9ab7f3ee810acc79be5a2e43726e",
+  "variant" : "1e303e0c37eb51809400856a3b9e6364210b7e0b09e688a6a7b1ddae275ca675"
+}, {
+  "id" : "logback-classic/config/runtime",
+  "repository" : "ch.qos.logback",
+  "commit" : "abbec95fdbef9ab7f3ee810acc79be5a2e43726e",
+  "variant" : "63a3af5f972a750b96054502b9de6fc257cc1e9e409a536a7da957d2e2a377ed"
+}, {
+  "id" : "logback-core",
+  "repository" : "ch.qos.logback",
+  "commit" : "abbec95fdbef9ab7f3ee810acc79be5a2e43726e",
+  "variant" : "cb7815878f2008897cc461cd134d67fc5e7850fce24ee39928ab6d40443e2ef5"
+}, {
+  "id" : "logback-core/config/compile",
+  "repository" : "ch.qos.logback",
+  "commit" : "abbec95fdbef9ab7f3ee810acc79be5a2e43726e",
+  "variant" : "8f900926fe7ef3bceae728c5e92c8e89b8672aaaf5cd7c812fd41c75c3b6c4ee"
+}, {
+  "id" : "logback-core/config/master",
+  "repository" : "ch.qos.logback",
+  "commit" : "abbec95fdbef9ab7f3ee810acc79be5a2e43726e",
+  "variant" : "b6d1cd70da1a8d56cf20dfc7b36f0eec132448df461f1cf481eb776d07c422e0"
+}, {
+  "id" : "logback-core/config/runtime",
+  "repository" : "ch.qos.logback",
+  "commit" : "abbec95fdbef9ab7f3ee810acc79be5a2e43726e",
+  "variant" : "8f900926fe7ef3bceae728c5e92c8e89b8672aaaf5cd7c812fd41c75c3b6c4ee"
+}, {
+  "id" : "jackson-annotations",
+  "repository" : "com.fasterxml.jackson.core",
+  "commit" : "a8235731e95bdd9c8c78f03ad843555a77c471df",
+  "variant" : "f89ea00e065003e1419b061986f0d0927d5d21a00f71729e7c22963889a159f1"
+}, {
+  "id" : "jackson-annotations/config/compile",
+  "repository" : "com.fasterxml.jackson.core",
+  "commit" : "a8235731e95bdd9c8c78f03ad843555a77c471df",
+  "variant" : "ec0d40e767e4e8efcc7e1624d2446496d610f3767024eed1407167a3881abc33"
+}, {
+  "id" : "jackson-annotations/config/master",
+  "repository" : "com.fasterxml.jackson.core",
+  "commit" : "a8235731e95bdd9c8c78f03ad843555a77c471df",
+  "variant" : "e7f69556aa952c6fa2b3769ef5c3b951ededda5f614c95e46d2d1dc57a23ffc7"
+}, {
+  "id" : "jackson-annotations/config/runtime",
+  "repository" : "com.fasterxml.jackson.core",
+  "commit" : "a8235731e95bdd9c8c78f03ad843555a77c471df",
+  "variant" : "ec0d40e767e4e8efcc7e1624d2446496d610f3767024eed1407167a3881abc33"
+}, {
+  "id" : "jackson-core",
+  "repository" : "com.fasterxml.jackson.core",
+  "commit" : "a8235731e95bdd9c8c78f03ad843555a77c471df",
+  "variant" : "12e6fbd31f28067a74f871399e98bdf2adc23eacbfb83e2995c0a28681df16f0"
+}, {
+  "id" : "jackson-core/config/compile",
+  "repository" : "com.fasterxml.jackson.core",
+  "commit" : "a8235731e95bdd9c8c78f03ad843555a77c471df",
+  "variant" : "6982a430d356c7351df501402f32a7a137116ba24764006bf2e1731dda514bac"
+}, {
+  "id" : "jackson-core/config/master",
+  "repository" : "com.fasterxml.jackson.core",
+  "commit" : "a8235731e95bdd9c8c78f03ad843555a77c471df",
+  "variant" : "3bb5ae82fc7563b3b0ab312b7e48d5180d4ef85715f4111d0c8b7ecb76936d45"
+}, {
+  "id" : "jackson-core/config/runtime",
+  "repository" : "com.fasterxml.jackson.core",
+  "commit" : "a8235731e95bdd9c8c78f03ad843555a77c471df",
+  "variant" : "6982a430d356c7351df501402f32a7a137116ba24764006bf2e1731dda514bac"
+}, {
+  "id" : "jackson-databind",
+  "repository" : "com.fasterxml.jackson.core",
+  "commit" : "a8235731e95bdd9c8c78f03ad843555a77c471df",
+  "variant" : "5e095e3ccd7723866726c219aa400935117378b73464677ec4827f189e652b7a"
+}, {
+  "id" : "jackson-databind/config/compile",
+  "repository" : "com.fasterxml.jackson.core",
+  "commit" : "a8235731e95bdd9c8c78f03ad843555a77c471df",
+  "variant" : "4e854ed92f418ebe1a10e74e3b2c9b7790496b9966b75e1dfd69f78f111943a2"
+}, {
+  "id" : "jackson-databind/config/master",
+  "repository" : "com.fasterxml.jackson.core",
+  "commit" : "a8235731e95bdd9c8c78f03ad843555a77c471df",
+  "variant" : "a8c233c72847ee84e55fa4c082ff57241ed53001945ac75cf3edf03421508c90"
+}, {
+  "id" : "jackson-databind/config/runtime",
+  "repository" : "com.fasterxml.jackson.core",
+  "commit" : "a8235731e95bdd9c8c78f03ad843555a77c471df",
+  "variant" : "c9f9b467f180d865358af09082f3945987ae77ef07d1c2e5b43eb162c0af0bf8"
+}, {
+  "id" : "scala-io-core_2.10",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "ff321ebc7b36c3cae7ddaae68fe87d60363799d2",
+  "variant" : "a251a71617948e5ae486600be1af516d87d183e36a792c336e6b90660ff987bc"
+}, {
+  "id" : "scala-io-core_2.10/config/compile",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "ff321ebc7b36c3cae7ddaae68fe87d60363799d2",
+  "variant" : "c6c6f68eab3885c8ac9ce0fcea57f05f93260e3e1721f91155924d7c1e87a0ce"
+}, {
+  "id" : "scala-io-core_2.10/config/master",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "ff321ebc7b36c3cae7ddaae68fe87d60363799d2",
+  "variant" : "88e5328e259ba3303b94a85372f98b342f5a85dcfd03d24f998518a3940fc98f"
+}, {
+  "id" : "scala-io-core_2.10/config/runtime",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "ff321ebc7b36c3cae7ddaae68fe87d60363799d2",
+  "variant" : "70d4623b5e68b442dd8747b297e586701698778ae65bc21965ae9c4830fe9363"
+}, {
+  "id" : "scala-io-file_2.10",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "ff321ebc7b36c3cae7ddaae68fe87d60363799d2",
+  "variant" : "534b8a51ee78c8840954a5404917ff68d02b48ff360dd0e8baadbac4513fc64d"
+}, {
+  "id" : "scala-io-file_2.10/config/compile",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "ff321ebc7b36c3cae7ddaae68fe87d60363799d2",
+  "variant" : "fd4981bea65f910c73801dac6d6ddacedf7fe3adfe303d213ef3e96e738cb8b1"
+}, {
+  "id" : "scala-io-file_2.10/config/master",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "ff321ebc7b36c3cae7ddaae68fe87d60363799d2",
+  "variant" : "e7aaaeb8a85200f6e273369c7c66e39957bdc94902c0b315e7e4ce3085c06741"
+}, {
+  "id" : "scala-io-file_2.10/config/runtime",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "ff321ebc7b36c3cae7ddaae68fe87d60363799d2",
+  "variant" : "cf4831bbb95e13e2bada1c116422174aac8e41ab497acd82c3a633868c1868f5"
+}, {
+  "id" : "scala-arm_2.10",
+  "repository" : "com.jsuereth",
+  "commit" : "7413def2ce2ec2fc2f19d87bfdd048b36ce4ca57",
+  "variant" : "19bbd46467e6f8ad003b1b58d77834915f6969b858f61a506ff388c06c4eeabb"
+}, {
+  "id" : "scala-arm_2.10/config/compile",
+  "repository" : "com.jsuereth",
+  "commit" : "7413def2ce2ec2fc2f19d87bfdd048b36ce4ca57",
+  "variant" : "aefaca6fe0ed3e6ee9fd30d665c440cc70473606895669fc2ca9300d013fcf94"
+}, {
+  "id" : "scala-arm_2.10/config/master",
+  "repository" : "com.jsuereth",
+  "commit" : "7413def2ce2ec2fc2f19d87bfdd048b36ce4ca57",
+  "variant" : "7c9e47307430449d45ebd988aebc077290071004151a7117f63265127dbd4f9a"
+}, {
+  "id" : "scala-arm_2.10/config/runtime",
+  "repository" : "com.jsuereth",
+  "commit" : "7413def2ce2ec2fc2f19d87bfdd048b36ce4ca57",
+  "variant" : "c4cea5bb7ad55ad41deb827db95da45c1e257a2faceb50c3c984277c79389999"
+}, {
+  "id" : "async-http-client",
+  "repository" : "com.ning",
+  "commit" : "136bf02801b4801d1e2b48ef63f058ca4ec151ba",
+  "variant" : "6389ac16f98a0d6109c037634ecf54c0e3e59eb1664ce5a866b49970fcacfaa9"
+}, {
+  "id" : "async-http-client/config/compile",
+  "repository" : "com.ning",
+  "commit" : "136bf02801b4801d1e2b48ef63f058ca4ec151ba",
+  "variant" : "ab97591fd05246722f414a9d39adbf0eee39117699fbcfa8afd7d460cede3a70"
+}, {
+  "id" : "async-http-client/config/master",
+  "repository" : "com.ning",
+  "commit" : "136bf02801b4801d1e2b48ef63f058ca4ec151ba",
+  "variant" : "d83c569708c682803d4bf22e92c9969bb3a6cb24e03ccdd14861e0859c317931"
+}, {
+  "id" : "async-http-client/config/runtime",
+  "repository" : "com.ning",
+  "commit" : "136bf02801b4801d1e2b48ef63f058ca4ec151ba",
+  "variant" : "9f6cd39c576d23b41f49ccf9515954c146b3f8e5ac9b203ee127789fc06ea7f9"
+}, {
+  "id" : "config",
+  "repository" : "com.typesafe",
+  "commit" : "1fc244c4575f723392dabd8df477558f4b4b3aa8",
+  "variant" : "e697092fe729368e28a9f8b07101113921ae4f4670dc293b79a19a8ee1a2115f"
+}, {
+  "id" : "config/config/compile",
+  "repository" : "com.typesafe",
+  "commit" : "1fc244c4575f723392dabd8df477558f4b4b3aa8",
+  "variant" : "41d398e7c68b9d3d476fdb6de3dd36710fae9f0047a3929776e90fa891731699"
+}, {
+  "id" : "config/config/master",
+  "repository" : "com.typesafe",
+  "commit" : "1fc244c4575f723392dabd8df477558f4b4b3aa8",
+  "variant" : "d6f2e7290dc1e60e74d9b61b167b2bc21e56b546fa9998486ab4cafac9dd0035"
+}, {
+  "id" : "config/config/runtime",
+  "repository" : "com.typesafe",
+  "commit" : "1fc244c4575f723392dabd8df477558f4b4b3aa8",
+  "variant" : "41d398e7c68b9d3d476fdb6de3dd36710fae9f0047a3929776e90fa891731699"
+}, {
+  "id" : "akka-actor_2.10",
+  "repository" : "com.typesafe.akka",
+  "commit" : "f40ebf7f95e930c0ae03cb1056256b870910fceb",
+  "variant" : "0637fcd031f3bc8109dc699e81db7de978228aee8168e632fd0babdcb3f6d444"
+}, {
+  "id" : "akka-actor_2.10/config/compile",
+  "repository" : "com.typesafe.akka",
+  "commit" : "f40ebf7f95e930c0ae03cb1056256b870910fceb",
+  "variant" : "4a08b2c6b9dda854666c2e97199a0731e2f7f517457eee2eb6193b372f360fe8"
+}, {
+  "id" : "akka-actor_2.10/config/master",
+  "repository" : "com.typesafe.akka",
+  "commit" : "f40ebf7f95e930c0ae03cb1056256b870910fceb",
+  "variant" : "de038977ec06d2abbde65275a56a1ce5f800f9fe102eca2817244d9d199783d0"
+}, {
+  "id" : "akka-actor_2.10/config/runtime",
+  "repository" : "com.typesafe.akka",
+  "commit" : "f40ebf7f95e930c0ae03cb1056256b870910fceb",
+  "variant" : "a07a85937b1a98fa5966dc2c5d3f14ffea147e421aff51f31483967c0bde9aa4"
+}, {
+  "id" : "akka-slf4j_2.10",
+  "repository" : "com.typesafe.akka",
+  "commit" : "f40ebf7f95e930c0ae03cb1056256b870910fceb",
+  "variant" : "9b587252e8f59f98b609c2c3b2ae552306dcdf2bbc838788375e21a312dad08c"
+}, {
+  "id" : "akka-slf4j_2.10/config/compile",
+  "repository" : "com.typesafe.akka",
+  "commit" : "f40ebf7f95e930c0ae03cb1056256b870910fceb",
+  "variant" : "8714e21c21554e68d1a3f9139f814154857e86acc70fda6bdcb671ce87537c92"
+}, {
+  "id" : "akka-slf4j_2.10/config/master",
+  "repository" : "com.typesafe.akka",
+  "commit" : "f40ebf7f95e930c0ae03cb1056256b870910fceb",
+  "variant" : "b9879344ccdb90f9b1ee8758db2143c94d74bb7bafa382a05f2a37c08532c412"
+}, {
+  "id" : "akka-slf4j_2.10/config/runtime",
+  "repository" : "com.typesafe.akka",
+  "commit" : "f40ebf7f95e930c0ae03cb1056256b870910fceb",
+  "variant" : "34e6735642d934b2bbb4a81a119affcf95585c8ef16d1fd423ae32f67dad6196"
+}, {
+  "id" : "netty-http-pipelining",
+  "repository" : "com.typesafe.netty",
+  "commit" : "ccdbbd0ddc6898940e7aa94bf56e057463df72e6",
+  "variant" : "29ad57f6c5fdc6effd2855febdc7e2a0318e036af181ef4163707ec8f747b6ed"
+}, {
+  "id" : "netty-http-pipelining/config/compile",
+  "repository" : "com.typesafe.netty",
+  "commit" : "ccdbbd0ddc6898940e7aa94bf56e057463df72e6",
+  "variant" : "beaf1532be4267cc839106d4b04a12556e9d82a057efbc491df8caeda2fddac3"
+}, {
+  "id" : "netty-http-pipelining/config/master",
+  "repository" : "com.typesafe.netty",
+  "commit" : "ccdbbd0ddc6898940e7aa94bf56e057463df72e6",
+  "variant" : "ffff1905cf397ed17c174550195151e8f5d850bd8e304d947b06e602d42467a5"
+}, {
+  "id" : "netty-http-pipelining/config/runtime",
+  "repository" : "com.typesafe.netty",
+  "commit" : "ccdbbd0ddc6898940e7aa94bf56e057463df72e6",
+  "variant" : "f11b0b8aa0d0a62083cfdae73fe470db3c1de331f1deb422141f97cb5dba9fde"
+}, {
+  "id" : "play-datacommons_2.10",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "1ef2ca08d09d350c51aede2ce0b12e70a184f79e281b466daee14f35ac495e9b"
+}, {
+  "id" : "play-datacommons_2.10/config/compile",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "56ad084145d286f1de26f78d7ab77ce1c6a201c30c67d4cf0304e340d32aaac6"
+}, {
+  "id" : "play-datacommons_2.10/config/master",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "e2a2eff8269f2b0d6a851de6987981f3055ac23d23d7d83cd04804e3c037759a"
+}, {
+  "id" : "play-datacommons_2.10/config/runtime",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "0a6cdc8e3c02f8a359b0143da5414555320847a20cf0b4a920a83b9fc96e908c"
+}, {
+  "id" : "play-exceptions",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "adda8a7700802a0da5bc1001b37f53879a6efd7a4b488b1c6013cf33116740d4"
+}, {
+  "id" : "play-exceptions/config/compile",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "e767fab451087fe6fb927a6ed82bb5212348e772731ef643d467df2cb2190224"
+}, {
+  "id" : "play-exceptions/config/master",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "1fa5f59724c49e75e531a89d64fb7249a8df30e8e35dff76046f16ea8029042e"
+}, {
+  "id" : "play-exceptions/config/runtime",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "e767fab451087fe6fb927a6ed82bb5212348e772731ef643d467df2cb2190224"
+}, {
+  "id" : "play-functional_2.10",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "e46f0d1d634c56212f9a17a0dc358e693f063b62e067dddea975743c73b4a02c"
+}, {
+  "id" : "play-functional_2.10/config/compile",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "47a0f68c6a39035e4eff408408bb828b66620bdb52a487acec9895815ab28cd7"
+}, {
+  "id" : "play-functional_2.10/config/master",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "c5b08ba85eb6303662a3cd2f63d011a453080f2cdde0cdcf382088f65e40e926"
+}, {
+  "id" : "play-functional_2.10/config/runtime",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "d11202db7eec98dbf84d47f9617c63089a6b812fbee95e6cc307982e94e53709"
+}, {
+  "id" : "play-iteratees_2.10",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "0e38dc22e044858d8d347041fd6f4399356d92c756d281aa47a3e806055faee3"
+}, {
+  "id" : "play-iteratees_2.10/config/compile",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "24240169e33b1e4a861d5dfc1a810a6c0f82b947e57ceb0ed409e1f18a31c6d9"
+}, {
+  "id" : "play-iteratees_2.10/config/master",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "0925bd0f8964d3387d79f2e8d751d10aec7fa6cfa2557a4157fa6f023f3571ac"
+}, {
+  "id" : "play-iteratees_2.10/config/runtime",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "733f4afd0fb9142ee84c7537d45fdce5cbae310c6bdf941b2fc3edff5aa8a16c"
+}, {
+  "id" : "play-json_2.10",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "bc87702a7d21db03e42482ebd8e72102522ec9b6738c607462e6d83a146af0af"
+}, {
+  "id" : "play-json_2.10/config/compile",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "64eef0089c260beb7c7bcc8196da83793cb0648440ef8c9ca3f079d22fbd8ef0"
+}, {
+  "id" : "play-json_2.10/config/master",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "dd00b3fe233367fdf3c730b3bcd286c4fe5676ac4944d20279415e803a651691"
+}, {
+  "id" : "play-json_2.10/config/runtime",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "51eda8cf3e8d489c5ac1e0125ef966eebedbb43d72925cdb6fda988618b00fc9"
+}, {
+  "id" : "play_2.10/config/default",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "7cd9619ebc56c688cc198b257492926bf2593c62f8c0571e2499b87017aa379d"
+}, {
+  "id" : "sbt-link",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "ad054536384962687b01ed5e9befb07f0d2e6a45d20666cf9ee65195dabb1130"
+}, {
+  "id" : "sbt-link/config/compile",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "bce284d8c084a16dcfaab7e5053f24b8df2c56b68388a534195216b3543232f1"
+}, {
+  "id" : "sbt-link/config/master",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "084e2b8c660a5044c88164c8080417d55aa1fa0e996e32b1f439d508582b6cde"
+}, {
+  "id" : "sbt-link/config/runtime",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "36b41d277db21a35244fa05d90a0c13cf18923ed6bb0d5187e7c22cd4a561bdc"
+}, {
+  "id" : "templates_2.10",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "3c2a23de34fe746d6135541fb9035afdb5368838aa5bf693800eeb4f3f924381"
+}, {
+  "id" : "templates_2.10/config/compile",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "0852187e8cc95a5b5c4f44b189bac07a8007d8f16b7553bfde19358e9797be3d"
+}, {
+  "id" : "templates_2.10/config/master",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "a4664aab8bb7e6f249f4d6d3e6e75a3d84a0fbaa3ce50a55892c2beaf07977a5"
+}, {
+  "id" : "templates_2.10/config/runtime",
+  "repository" : "com.typesafe.play",
+  "commit" : "7e5c07432ae01d5d16dfec56db9d830370b05785",
+  "variant" : "f79c8953e3c853435eb354867ea1c7554672defb5cfbfe79db68ac3361ac1657"
+}, {
+  "id" : "commons-codec",
+  "repository" : "commons-codec",
+  "commit" : "5ef2a99e86e90d10715167944b0a724060449db2",
+  "variant" : "50251b0b8581d9205925a556c2f1027c6cfa1a1dbbd85b53f6b473bcce7762e4"
+}, {
+  "id" : "commons-codec/config/compile",
+  "repository" : "commons-codec",
+  "commit" : "5ef2a99e86e90d10715167944b0a724060449db2",
+  "variant" : "a71e931444702140ee37bcbcfc9f511ee9c0aee3eba4b83c6f1d2a8773868e6a"
+}, {
+  "id" : "commons-codec/config/master",
+  "repository" : "commons-codec",
+  "commit" : "5ef2a99e86e90d10715167944b0a724060449db2",
+  "variant" : "47c6a922abc6f1fbf592920e83ffb3588f1675608ccca8a1733208d3bf48488a"
+}, {
+  "id" : "commons-codec/config/runtime",
+  "repository" : "commons-codec",
+  "commit" : "5ef2a99e86e90d10715167944b0a724060449db2",
+  "variant" : "a71e931444702140ee37bcbcfc9f511ee9c0aee3eba4b83c6f1d2a8773868e6a"
+}, {
+  "id" : "commons-logging",
+  "repository" : "commons-logging",
+  "commit" : "1289b0aff0a168e1649b0cab689e394f3c6d2de9",
+  "variant" : "3b0bbb00d8037e1db477d2af6d02e7e54d0733e18875bcfded8b558788bed8a8"
+}, {
+  "id" : "commons-logging/config/compile",
+  "repository" : "commons-logging",
+  "commit" : "1289b0aff0a168e1649b0cab689e394f3c6d2de9",
+  "variant" : "cd8ec786adba9130b02aec3e499a7488d760a58b5b69122d0f5c0dba95d68745"
+}, {
+  "id" : "commons-logging/config/master",
+  "repository" : "commons-logging",
+  "commit" : "1289b0aff0a168e1649b0cab689e394f3c6d2de9",
+  "variant" : "11f1a8ec569bc0fbce3c468344b7f623c7bae3dc29f8b139176924aeaf1d33dd"
+}, {
+  "id" : "commons-logging/config/runtime",
+  "repository" : "commons-logging",
+  "commit" : "1289b0aff0a168e1649b0cab689e394f3c6d2de9",
+  "variant" : "cd8ec786adba9130b02aec3e499a7488d760a58b5b69122d0f5c0dba95d68745"
+}, {
+  "id" : "netty",
+  "repository" : "io.netty",
+  "commit" : "2fc334a0be6c10d0779ca84f22325851be21af38",
+  "variant" : "d6b2499ae58cac8a957a32da1f68cf52f51873e33f0bdcc722f8d311366ec928"
+}, {
+  "id" : "netty/config/compile",
+  "repository" : "io.netty",
+  "commit" : "2fc334a0be6c10d0779ca84f22325851be21af38",
+  "variant" : "790ec011d8b67a37a0f479b3551bd46bd0721e978dce7514d07cea6bcb234b9e"
+}, {
+  "id" : "netty/config/master",
+  "repository" : "io.netty",
+  "commit" : "2fc334a0be6c10d0779ca84f22325851be21af38",
+  "variant" : "050988f47505e8de5ae8a00cc52d66a5eca1cc276137066db71359cfad06d743"
+}, {
+  "id" : "netty/config/runtime",
+  "repository" : "io.netty",
+  "commit" : "2fc334a0be6c10d0779ca84f22325851be21af38",
+  "variant" : "790ec011d8b67a37a0f479b3551bd46bd0721e978dce7514d07cea6bcb234b9e"
+}, {
+  "id" : "jta",
+  "repository" : "javax.transaction",
+  "commit" : "6fced1976c0f826576c973132ef7c8f73051e85e",
+  "variant" : "16018c0241d0343d9bbdb9ddb4f54e2c387cb3dce2468550ce59f54f7c400057"
+}, {
+  "id" : "jta/config/compile",
+  "repository" : "javax.transaction",
+  "commit" : "6fced1976c0f826576c973132ef7c8f73051e85e",
+  "variant" : "429d25d1e79e733f419fadd1b283c8df3245302bd237486ba3c654ed29eb0a58"
+}, {
+  "id" : "jta/config/master",
+  "repository" : "javax.transaction",
+  "commit" : "6fced1976c0f826576c973132ef7c8f73051e85e",
+  "variant" : "156b1173006c9e1553f38474cb9b8b1e6c0c11ee8611a4b5e267bffea918b46a"
+}, {
+  "id" : "jta/config/runtime",
+  "repository" : "javax.transaction",
+  "commit" : "6fced1976c0f826576c973132ef7c8f73051e85e",
+  "variant" : "429d25d1e79e733f419fadd1b283c8df3245302bd237486ba3c654ed29eb0a58"
+}, {
+  "id" : "joda-time",
+  "repository" : "joda-time",
+  "commit" : "dfd68f800cdc6087c873bf83610de7dce260ddb7",
+  "variant" : "e8d3c519b4addd2a07f4b6f57a7021c6173aca522b0e654d70ee94df7d0d4218"
+}, {
+  "id" : "joda-time/config/compile",
+  "repository" : "joda-time",
+  "commit" : "dfd68f800cdc6087c873bf83610de7dce260ddb7",
+  "variant" : "af7eb1265bbc97d843981e08f690df7287e53fd1e8a18860b5b4649aa2b7b583"
+}, {
+  "id" : "joda-time/config/master",
+  "repository" : "joda-time",
+  "commit" : "dfd68f800cdc6087c873bf83610de7dce260ddb7",
+  "variant" : "7a2d92f1dfdbbf20362c67a1d88b394ce001da6d29333772b907b882219e8c94"
+}, {
+  "id" : "joda-time/config/runtime",
+  "repository" : "joda-time",
+  "commit" : "dfd68f800cdc6087c873bf83610de7dce260ddb7",
+  "variant" : "af7eb1265bbc97d843981e08f690df7287e53fd1e8a18860b5b4649aa2b7b583"
+}, {
+  "id" : "signpost-commonshttp4",
+  "repository" : "oauth.signpost",
+  "commit" : "8b9a4a735add0ae0c7fbd67093666ed49f9fdaa4",
+  "variant" : "1a539ff2ebc72155231841079d19d6dd85843b18393766bd945ce3df11fe3783"
+}, {
+  "id" : "signpost-commonshttp4/config/compile",
+  "repository" : "oauth.signpost",
+  "commit" : "8b9a4a735add0ae0c7fbd67093666ed49f9fdaa4",
+  "variant" : "5b56d47cf93a9930db5bf7954df48558f65ad9d58ee4496b9782bf7af7f2f890"
+}, {
+  "id" : "signpost-commonshttp4/config/master",
+  "repository" : "oauth.signpost",
+  "commit" : "8b9a4a735add0ae0c7fbd67093666ed49f9fdaa4",
+  "variant" : "5e54d3ea96f0a87c4f84665de8006ac94fa7294d247f50bc4fc20eb938e38395"
+}, {
+  "id" : "signpost-commonshttp4/config/runtime",
+  "repository" : "oauth.signpost",
+  "commit" : "8b9a4a735add0ae0c7fbd67093666ed49f9fdaa4",
+  "variant" : "a662f9a26d7773e8ad14a8f52dc814939546169a61c527eca48916cba2122c7b"
+}, {
+  "id" : "signpost-core",
+  "repository" : "oauth.signpost",
+  "commit" : "8b9a4a735add0ae0c7fbd67093666ed49f9fdaa4",
+  "variant" : "407b474cc76b01e1072f6d49a210373dc946ac5ae6584dab027c91921a05b162"
+}, {
+  "id" : "signpost-core/config/compile",
+  "repository" : "oauth.signpost",
+  "commit" : "8b9a4a735add0ae0c7fbd67093666ed49f9fdaa4",
+  "variant" : "304e8737f0ebec858bbcf964845859eae6f6d56ee62d313caac008686a5d8801"
+}, {
+  "id" : "signpost-core/config/master",
+  "repository" : "oauth.signpost",
+  "commit" : "8b9a4a735add0ae0c7fbd67093666ed49f9fdaa4",
+  "variant" : "6ded4353bd7260ba9c4f50581be8e79cfd620542150126e18fa70fe04aed2213"
+}, {
+  "id" : "signpost-core/config/runtime",
+  "repository" : "oauth.signpost",
+  "commit" : "8b9a4a735add0ae0c7fbd67093666ed49f9fdaa4",
+  "variant" : "7b9014d126b62605afe9de2511e831c72f8796b728f74e93fcb410a450cc127d"
+}, {
+  "id" : "commons-lang3",
+  "repository" : "org.apache.commons",
+  "commit" : "ec829e6894e1ec3c22ebc7c33d79732ca26f845d",
+  "variant" : "ec1513b136b68185019adad97bda13faf2028021e8ab94a09cbdfb4ef0cef4aa"
+}, {
+  "id" : "commons-lang3/config/compile",
+  "repository" : "org.apache.commons",
+  "commit" : "ec829e6894e1ec3c22ebc7c33d79732ca26f845d",
+  "variant" : "3ac40a5526afd0c1c08be07f6d991afc9a38b13b1232416ad2be230a648f3a6e"
+}, {
+  "id" : "commons-lang3/config/master",
+  "repository" : "org.apache.commons",
+  "commit" : "ec829e6894e1ec3c22ebc7c33d79732ca26f845d",
+  "variant" : "d0a640f302ca19cd66953b2eca011ecd0224b8e0e6c95877a6735832f335af0b"
+}, {
+  "id" : "commons-lang3/config/runtime",
+  "repository" : "org.apache.commons",
+  "commit" : "ec829e6894e1ec3c22ebc7c33d79732ca26f845d",
+  "variant" : "3ac40a5526afd0c1c08be07f6d991afc9a38b13b1232416ad2be230a648f3a6e"
+}, {
+  "id" : "httpclient",
+  "repository" : "org.apache.httpcomponents",
+  "commit" : "48150d5b09c1fa05705023acf5b60ef51868a174",
+  "variant" : "a6c5d07f19e15e0aa16954833fa3b9805c41ddc2fee5f289685a5c501c838c3c"
+}, {
+  "id" : "httpclient/config/compile",
+  "repository" : "org.apache.httpcomponents",
+  "commit" : "48150d5b09c1fa05705023acf5b60ef51868a174",
+  "variant" : "f1874e54ee6a0cbd626a9500cee2b6f0c70c0f788c8889870166d0dff3d901eb"
+}, {
+  "id" : "httpclient/config/master",
+  "repository" : "org.apache.httpcomponents",
+  "commit" : "48150d5b09c1fa05705023acf5b60ef51868a174",
+  "variant" : "94789613055016cf13139cbf36606f6d9a1b3096a581630748b4f068cc070284"
+}, {
+  "id" : "httpclient/config/runtime",
+  "repository" : "org.apache.httpcomponents",
+  "commit" : "48150d5b09c1fa05705023acf5b60ef51868a174",
+  "variant" : "32a70899b14551ce9ce2989cc5e4f4b6d32bafca47129ea99d0ee8ed547cfede"
+}, {
+  "id" : "httpcore",
+  "repository" : "org.apache.httpcomponents",
+  "commit" : "48150d5b09c1fa05705023acf5b60ef51868a174",
+  "variant" : "ac4e434064c992ace44ab19d129140d1a913f573cefe3a4e8cef6ba128526eb1"
+}, {
+  "id" : "httpcore/config/compile",
+  "repository" : "org.apache.httpcomponents",
+  "commit" : "48150d5b09c1fa05705023acf5b60ef51868a174",
+  "variant" : "981c11ef5ed1312273cbe2552661379ed1f68158d647f6736dbad1bbc7d9f8ef"
+}, {
+  "id" : "httpcore/config/master",
+  "repository" : "org.apache.httpcomponents",
+  "commit" : "48150d5b09c1fa05705023acf5b60ef51868a174",
+  "variant" : "3a35130381ed633b898323b8209966788e241fe38bf69d344e6717f47b026a52"
+}, {
+  "id" : "httpcore/config/runtime",
+  "repository" : "org.apache.httpcomponents",
+  "commit" : "48150d5b09c1fa05705023acf5b60ef51868a174",
+  "variant" : "981c11ef5ed1312273cbe2552661379ed1f68158d647f6736dbad1bbc7d9f8ef"
+}, {
+  "id" : "javassist",
+  "repository" : "org.javassist",
+  "commit" : "d1206a4143aed8580e347d9e0158be4b0027c4a7",
+  "variant" : "1f3e4cbc2d41a567be3d93526b7823a21757ce73389708076e06adb50496b529"
+}, {
+  "id" : "javassist/config/compile",
+  "repository" : "org.javassist",
+  "commit" : "d1206a4143aed8580e347d9e0158be4b0027c4a7",
+  "variant" : "92e6c5943a0bdb71bda33b58219a790788bd299976b5879149d299ff50836445"
+}, {
+  "id" : "javassist/config/master",
+  "repository" : "org.javassist",
+  "commit" : "d1206a4143aed8580e347d9e0158be4b0027c4a7",
+  "variant" : "9b0b7c67f1b2f89926c00baa7f6ba23c09658998ef439d35b054e58c43b0467e"
+}, {
+  "id" : "javassist/config/runtime",
+  "repository" : "org.javassist",
+  "commit" : "d1206a4143aed8580e347d9e0158be4b0027c4a7",
+  "variant" : "92e6c5943a0bdb71bda33b58219a790788bd299976b5879149d299ff50836445"
+}, {
+  "id" : "joda-convert",
+  "repository" : "org.joda",
+  "commit" : "291c2e2588a2a4716e3d01f99e662148cc85cd28",
+  "variant" : "a90fe6c8a394450977704da395691b7f28e2d5154d05cbcacd1b0b04f8b0e2d6"
+}, {
+  "id" : "joda-convert/config/compile",
+  "repository" : "org.joda",
+  "commit" : "291c2e2588a2a4716e3d01f99e662148cc85cd28",
+  "variant" : "34dd1a0296046d4c327b37ea86312b210b533570b409b0e4efaf88bd18f4aa39"
+}, {
+  "id" : "joda-convert/config/master",
+  "repository" : "org.joda",
+  "commit" : "291c2e2588a2a4716e3d01f99e662148cc85cd28",
+  "variant" : "91146170792f3ea73f7c95bd67a55412be835b3f52d60be110d7716582779547"
+}, {
+  "id" : "joda-convert/config/runtime",
+  "repository" : "org.joda",
+  "commit" : "291c2e2588a2a4716e3d01f99e662148cc85cd28",
+  "variant" : "34dd1a0296046d4c327b37ea86312b210b533570b409b0e4efaf88bd18f4aa39"
+}, {
+  "id" : "scala-library",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "483a720e45d1b0d00789f18b08148947483aa75d2e49de54128cb95966c26d96"
+}, {
+  "id" : "scala-library/config/compile",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "5cb49d6dc9c4173454dba0840dd96c311502dbe515274dc4f9586e4fcfb7949d"
+}, {
+  "id" : "scala-library/config/master",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "87bf537f0c1bce977a8d54afb12bb8bd095db2bf186828eeab97fdff6db99645"
+}, {
+  "id" : "scala-library/config/runtime",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "5cb49d6dc9c4173454dba0840dd96c311502dbe515274dc4f9586e4fcfb7949d"
+}, {
+  "id" : "scala-reflect",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "95b1e63e12e0f3a09deb8e575ee512d2813bef102c51b604ce15a1d1f0244e34"
+}, {
+  "id" : "scala-reflect/config/compile",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "23ee5ecb42a2d533e69816f6f005a4cc5e4a2bd83e191ef1eef6f5d4b3df114b"
+}, {
+  "id" : "scala-reflect/config/master",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "ed6ccb342a477c46c05c60124378d74052a3e4357ccc323504c013a79cda6003"
+}, {
+  "id" : "scala-reflect/config/runtime",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "7b99fc01f288dba76d2f05b151b252b726416f390182b48c5b01d8a701a610a2"
+}, {
+  "id" : "scala-stm_2.10",
+  "repository" : "org.scala-stm",
+  "commit" : "e929ecb909c8650211458b1a3e44413158c9500f",
+  "variant" : "e178b958cf636e72104c64f82acfd316448bca1749c52c2a9604b46f7c5c32a2"
+}, {
+  "id" : "scala-stm_2.10/config/compile",
+  "repository" : "org.scala-stm",
+  "commit" : "e929ecb909c8650211458b1a3e44413158c9500f",
+  "variant" : "32384d5764629ba27ae51db159f3ce8a01a28d517154479a4ec8ba6f89a5d4dc"
+}, {
+  "id" : "scala-stm_2.10/config/master",
+  "repository" : "org.scala-stm",
+  "commit" : "e929ecb909c8650211458b1a3e44413158c9500f",
+  "variant" : "a611141a295d8aa566188b096c88446dfffdeb52d25199fc4e5ca60005fb2617"
+}, {
+  "id" : "scala-stm_2.10/config/runtime",
+  "repository" : "org.scala-stm",
+  "commit" : "e929ecb909c8650211458b1a3e44413158c9500f",
+  "variant" : "94cc5ea00fb781ade65de2c777b0c2da8d2755183de156182bcadb87654c09af"
+}, {
+  "id" : "jcl-over-slf4j",
+  "repository" : "org.slf4j",
+  "commit" : "797410d85827576cca3dd1b6c93f57b375dea429",
+  "variant" : "df1e2a7a1559dcdf92ed9d8f345992c82a230b6610fb4d7cc91463d2031b7117"
+}, {
+  "id" : "jcl-over-slf4j/config/compile",
+  "repository" : "org.slf4j",
+  "commit" : "797410d85827576cca3dd1b6c93f57b375dea429",
+  "variant" : "31bf08035b8e4293a0b200646ab0c545b344c5f8d6b012fa09a59c1679dea438"
+}, {
+  "id" : "jcl-over-slf4j/config/master",
+  "repository" : "org.slf4j",
+  "commit" : "797410d85827576cca3dd1b6c93f57b375dea429",
+  "variant" : "52defd64a54ac5bef0d8b0c67ff96cf993b153d418a2afb984e98c29e9755653"
+}, {
+  "id" : "jcl-over-slf4j/config/runtime",
+  "repository" : "org.slf4j",
+  "commit" : "797410d85827576cca3dd1b6c93f57b375dea429",
+  "variant" : "d25ad2950e13d78920c368ea4e60464be0fc1edb47c4b753a09bdcb54799895d"
+}, {
+  "id" : "jul-to-slf4j",
+  "repository" : "org.slf4j",
+  "commit" : "797410d85827576cca3dd1b6c93f57b375dea429",
+  "variant" : "df53d3883fd1479a78cd950df875faf7526ad48e4dba254862eb800d584535c2"
+}, {
+  "id" : "jul-to-slf4j/config/compile",
+  "repository" : "org.slf4j",
+  "commit" : "797410d85827576cca3dd1b6c93f57b375dea429",
+  "variant" : "c250d776a4d12909e92681a42fe9fddeb35cd54bcbe3441ebad52fb9e8d9c857"
+}, {
+  "id" : "jul-to-slf4j/config/master",
+  "repository" : "org.slf4j",
+  "commit" : "797410d85827576cca3dd1b6c93f57b375dea429",
+  "variant" : "350a552a1f863d5fa1e6201fc8d27ad74cd43f2f1298059ea4cf7b8dd8d9687b"
+}, {
+  "id" : "jul-to-slf4j/config/runtime",
+  "repository" : "org.slf4j",
+  "commit" : "797410d85827576cca3dd1b6c93f57b375dea429",
+  "variant" : "1444e21d0518aa6b638f2f1f413f493594c523c3be4c5a74019265a34f85b985"
+}, {
+  "id" : "slf4j-api",
+  "repository" : "org.slf4j",
+  "commit" : "797410d85827576cca3dd1b6c93f57b375dea429",
+  "variant" : "b9c20bd8c7aa19d2fe7d75ba36464f39d7be77dc3ddd36864941f5362c403764"
+}, {
+  "id" : "slf4j-api/config/compile",
+  "repository" : "org.slf4j",
+  "commit" : "797410d85827576cca3dd1b6c93f57b375dea429",
+  "variant" : "e2588e5e72c8bf8e66076bdfa41f16938bf34c6b2248af92988e9b681addf236"
+}, {
+  "id" : "slf4j-api/config/master",
+  "repository" : "org.slf4j",
+  "commit" : "797410d85827576cca3dd1b6c93f57b375dea429",
+  "variant" : "d4786748bcca0a88a976b713158146d5945e81630e07f4100ee98cf836d3bc63"
+}, {
+  "id" : "slf4j-api/config/runtime",
+  "repository" : "org.slf4j",
+  "commit" : "797410d85827576cca3dd1b6c93f57b375dea429",
+  "variant" : "e2588e5e72c8bf8e66076bdfa41f16938bf34c6b2248af92988e9b681addf236"
+}, {
+  "id" : "xercesImpl",
+  "repository" : "xerces",
+  "commit" : "c763178252115c974572620cf032f9d650e38db9",
+  "variant" : "8a2fccc712e21ce64a0963e7781bce2591b913c3473a0a816270d12b8e65dbf2"
+}, {
+  "id" : "xercesImpl/config/compile",
+  "repository" : "xerces",
+  "commit" : "c763178252115c974572620cf032f9d650e38db9",
+  "variant" : "375e6db1db5ecde3695840457b37033c47d9c7bd3b4b5ce1d86605fe68296f1a"
+}, {
+  "id" : "xercesImpl/config/master",
+  "repository" : "xerces",
+  "commit" : "c763178252115c974572620cf032f9d650e38db9",
+  "variant" : "2e70ad21407aca612cb5585b2f5ea4ad0e9d72863fa4f67b512170d65b6302c7"
+}, {
+  "id" : "xercesImpl/config/runtime",
+  "repository" : "xerces",
+  "commit" : "c763178252115c974572620cf032f9d650e38db9",
+  "variant" : "a34c24a09aa9ea1e2e1332c497e767f7ce897c1f48bb070dc025ae0f2ba8fc0b"
+}, {
+  "id" : "xml-apis",
+  "repository" : "xml-apis",
+  "commit" : "d0373b77ab89cc71d94cce0357088994dcddf154",
+  "variant" : "8cf7f66cd455401d31d0f09ea9994bf36fa762504f1a0be39a4199133314d5be"
+}, {
+  "id" : "xml-apis/config/compile",
+  "repository" : "xml-apis",
+  "commit" : "d0373b77ab89cc71d94cce0357088994dcddf154",
+  "variant" : "dee49c1f35d4aecbb27ce6747b1ca764a1f62aa25ceeae3fe16adbe95be1ad1f"
+}, {
+  "id" : "xml-apis/config/master",
+  "repository" : "xml-apis",
+  "commit" : "d0373b77ab89cc71d94cce0357088994dcddf154",
+  "variant" : "ef119bf27efbf819a48f49ddd97b4b62d211de7265c9ff15d3e7fdbdc150fa30"
+}, {
+  "id" : "xml-apis/config/runtime",
+  "repository" : "xml-apis",
+  "commit" : "d0373b77ab89cc71d94cce0357088994dcddf154",
+  "variant" : "dee49c1f35d4aecbb27ce6747b1ca764a1f62aa25ceeae3fe16adbe95be1ad1f"
+} ]
