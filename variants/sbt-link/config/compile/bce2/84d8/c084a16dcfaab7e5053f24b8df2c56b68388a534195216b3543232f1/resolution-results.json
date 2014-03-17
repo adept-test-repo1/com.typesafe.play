@@ -1,0 +1,21 @@
+[ {
+  "id" : "sbt-link/config/compile",
+  "repository" : "com.typesafe.play",
+  "commit" : "75fb51c5622077ec84d4e5489b2b24852fe89af6",
+  "variant" : "bce284d8c084a16dcfaab7e5053f24b8df2c56b68388a534195216b3543232f1"
+}, {
+  "id" : "javassist",
+  "repository" : "org.javassist",
+  "commit" : "d1206a4143aed8580e347d9e0158be4b0027c4a7",
+  "variant" : "1f3e4cbc2d41a567be3d93526b7823a21757ce73389708076e06adb50496b529"
+}, {
+  "id" : "javassist/config/compile",
+  "repository" : "org.javassist",
+  "commit" : "d1206a4143aed8580e347d9e0158be4b0027c4a7",
+  "variant" : "92e6c5943a0bdb71bda33b58219a790788bd299976b5879149d299ff50836445"
+}, {
+  "id" : "javassist/config/master",
+  "repository" : "org.javassist",
+  "commit" : "d1206a4143aed8580e347d9e0158be4b0027c4a7",
+  "variant" : "9b0b7c67f1b2f89926c00baa7f6ba23c09658998ef439d35b054e58c43b0467e"
+} ]
