@@ -1,0 +1,71 @@
+[ {
+  "id" : "jackson-annotations",
+  "repository" : "com.fasterxml.jackson.core",
+  "commit" : "a8235731e95bdd9c8c78f03ad843555a77c471df",
+  "variant" : "f89ea00e065003e1419b061986f0d0927d5d21a00f71729e7c22963889a159f1"
+}, {
+  "id" : "jackson-core",
+  "repository" : "com.fasterxml.jackson.core",
+  "commit" : "a8235731e95bdd9c8c78f03ad843555a77c471df",
+  "variant" : "12e6fbd31f28067a74f871399e98bdf2adc23eacbfb83e2995c0a28681df16f0"
+}, {
+  "id" : "jackson-databind",
+  "repository" : "com.fasterxml.jackson.core",
+  "commit" : "a8235731e95bdd9c8c78f03ad843555a77c471df",
+  "variant" : "5e095e3ccd7723866726c219aa400935117378b73464677ec4827f189e652b7a"
+}, {
+  "id" : "config",
+  "repository" : "com.typesafe",
+  "commit" : "1fc244c4575f723392dabd8df477558f4b4b3aa8",
+  "variant" : "e697092fe729368e28a9f8b07101113921ae4f4670dc293b79a19a8ee1a2115f"
+}, {
+  "id" : "play-datacommons_2.10",
+  "repository" : "com.typesafe.play",
+  "commit" : "d3028b8e0cda27e97e01349e9beaf7064c036a32",
+  "variant" : "1ef2ca08d09d350c51aede2ce0b12e70a184f79e281b466daee14f35ac495e9b"
+}, {
+  "id" : "play-functional_2.10",
+  "repository" : "com.typesafe.play",
+  "commit" : "d3028b8e0cda27e97e01349e9beaf7064c036a32",
+  "variant" : "e46f0d1d634c56212f9a17a0dc358e693f063b62e067dddea975743c73b4a02c"
+}, {
+  "id" : "play-iteratees_2.10",
+  "repository" : "com.typesafe.play",
+  "commit" : "d3028b8e0cda27e97e01349e9beaf7064c036a32",
+  "variant" : "0e38dc22e044858d8d347041fd6f4399356d92c756d281aa47a3e806055faee3"
+}, {
+  "id" : "play-json_2.10/config/system",
+  "repository" : "com.typesafe.play",
+  "commit" : "d3028b8e0cda27e97e01349e9beaf7064c036a32",
+  "variant" : "8e9dd7494fcc3f0b21dfd6d379d1658557b1d83e74ac65ab03fa69081f36f133"
+}, {
+  "id" : "joda-time",
+  "repository" : "joda-time",
+  "commit" : "dfd68f800cdc6087c873bf83610de7dce260ddb7",
+  "variant" : "e8d3c519b4addd2a07f4b6f57a7021c6173aca522b0e654d70ee94df7d0d4218"
+}, {
+  "id" : "joda-convert",
+  "repository" : "org.joda",
+  "commit" : "291c2e2588a2a4716e3d01f99e662148cc85cd28",
+  "variant" : "a90fe6c8a394450977704da395691b7f28e2d5154d05cbcacd1b0b04f8b0e2d6"
+}, {
+  "id" : "scala-library",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "483a720e45d1b0d00789f18b08148947483aa75d2e49de54128cb95966c26d96"
+}, {
+  "id" : "scala-library",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "c85e7ffcd2aac57a4f0e6515282e34c15a7534c5b5e07a05be3ebd1437102a9e"
+}, {
+  "id" : "scala-reflect",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "95b1e63e12e0f3a09deb8e575ee512d2813bef102c51b604ce15a1d1f0244e34"
+}, {
+  "id" : "scala-stm_2.10",
+  "repository" : "org.scala-stm",
+  "commit" : "e929ecb909c8650211458b1a3e44413158c9500f",
+  "variant" : "e178b958cf636e72104c64f82acfd316448bca1749c52c2a9604b46f7c5c32a2"
+} ]
