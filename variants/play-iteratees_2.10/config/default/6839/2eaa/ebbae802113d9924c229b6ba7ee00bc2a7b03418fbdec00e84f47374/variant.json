@@ -1,0 +1,51 @@
+{
+  "attributes" : {
+    "name" : [ "play-iteratees_2.10" ],
+    "organization" : [ "com.typesafe.play" ],
+    "version" : [ "2.2.2" ]
+  },
+  "artifacts" : [ {
+    "hash" : "7b81d088ddee57d1c69ab4d37bab3aadb2253ac5c0bd4bd25f01957f1253f114",
+    "attributes" : {
+      "configurations" : [ "master" ]
+    },
+    "filename" : "play-iteratees_2.10-2.2.2.jar"
+  } ],
+  "requirements" : [ {
+    "id" : "config",
+    "constraints" : { }
+  }, {
+    "id" : "config/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "config/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "config/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "scala-stm_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "scala-stm_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "scala-stm_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "scala-stm_2.10/config/runtime",
+    "constraints" : { }
+  } ]
+}
