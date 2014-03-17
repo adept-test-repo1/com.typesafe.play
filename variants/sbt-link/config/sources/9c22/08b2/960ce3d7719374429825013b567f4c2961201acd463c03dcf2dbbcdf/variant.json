@@ -1,0 +1,18 @@
+{
+  "attributes" : {
+    "name" : [ "sbt-link" ],
+    "organization" : [ "com.typesafe.play" ],
+    "version" : [ "2.2.2" ]
+  },
+  "artifacts" : [ {
+    "hash" : "2b89b1403ace51dc483950076255a8e7be59bf6755b8d05d274fa4c40d1010dc",
+    "attributes" : {
+      "configurations" : [ "sources" ]
+    },
+    "filename" : "sbt-link-2.2.2-sources.jar"
+  } ],
+  "requirements" : [ {
+    "id" : "javassist",
+    "constraints" : { }
+  } ]
+}
