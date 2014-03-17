@@ -1,0 +1,45 @@
+{
+  "attributes" : {
+    "name" : [ "play-json_2.10" ],
+    "organization" : [ "com.typesafe.play" ],
+    "version" : [ "2.2.2" ]
+  },
+  "artifacts" : [ ],
+  "requirements" : [ {
+    "id" : "config",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-annotations",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-core",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-databind",
+    "constraints" : { }
+  }, {
+    "id" : "joda-convert",
+    "constraints" : { }
+  }, {
+    "id" : "joda-time",
+    "constraints" : { }
+  }, {
+    "id" : "play-datacommons_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "play-functional_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "play-iteratees_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library",
+    "constraints" : { }
+  }, {
+    "id" : "scala-reflect",
+    "constraints" : { }
+  }, {
+    "id" : "scala-stm_2.10",
+    "constraints" : { }
+  } ]
+}
