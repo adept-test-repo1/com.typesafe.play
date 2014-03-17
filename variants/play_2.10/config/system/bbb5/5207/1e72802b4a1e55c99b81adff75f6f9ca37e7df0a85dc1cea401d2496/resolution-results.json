@@ -1,0 +1,211 @@
+[ {
+  "id" : "logback-classic",
+  "repository" : "ch.qos.logback",
+  "commit" : "abbec95fdbef9ab7f3ee810acc79be5a2e43726e",
+  "variant" : "76be7749cabe9e6b0fbb5b13273120b3adc281014c080096cf6543648d5cd71b"
+}, {
+  "id" : "logback-core",
+  "repository" : "ch.qos.logback",
+  "commit" : "abbec95fdbef9ab7f3ee810acc79be5a2e43726e",
+  "variant" : "cb7815878f2008897cc461cd134d67fc5e7850fce24ee39928ab6d40443e2ef5"
+}, {
+  "id" : "jackson-annotations",
+  "repository" : "com.fasterxml.jackson.core",
+  "commit" : "f0f532d966a7b7d70580d47801a1856d18777f9f",
+  "variant" : "f89ea00e065003e1419b061986f0d0927d5d21a00f71729e7c22963889a159f1"
+}, {
+  "id" : "jackson-core",
+  "repository" : "com.fasterxml.jackson.core",
+  "commit" : "f0f532d966a7b7d70580d47801a1856d18777f9f",
+  "variant" : "12e6fbd31f28067a74f871399e98bdf2adc23eacbfb83e2995c0a28681df16f0"
+}, {
+  "id" : "jackson-databind",
+  "repository" : "com.fasterxml.jackson.core",
+  "commit" : "f0f532d966a7b7d70580d47801a1856d18777f9f",
+  "variant" : "5e095e3ccd7723866726c219aa400935117378b73464677ec4827f189e652b7a"
+}, {
+  "id" : "scala-io-core_2.10",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "0367aca53158b8ac92c771b8f71554a8cdc3aad3",
+  "variant" : "a251a71617948e5ae486600be1af516d87d183e36a792c336e6b90660ff987bc"
+}, {
+  "id" : "scala-io-file_2.10",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "0367aca53158b8ac92c771b8f71554a8cdc3aad3",
+  "variant" : "534b8a51ee78c8840954a5404917ff68d02b48ff360dd0e8baadbac4513fc64d"
+}, {
+  "id" : "scala-arm_2.10",
+  "repository" : "com.jsuereth",
+  "commit" : "7413def2ce2ec2fc2f19d87bfdd048b36ce4ca57",
+  "variant" : "19bbd46467e6f8ad003b1b58d77834915f6969b858f61a506ff388c06c4eeabb"
+}, {
+  "id" : "async-http-client",
+  "repository" : "com.ning",
+  "commit" : "136bf02801b4801d1e2b48ef63f058ca4ec151ba",
+  "variant" : "6389ac16f98a0d6109c037634ecf54c0e3e59eb1664ce5a866b49970fcacfaa9"
+}, {
+  "id" : "config",
+  "repository" : "com.typesafe",
+  "commit" : "1fc244c4575f723392dabd8df477558f4b4b3aa8",
+  "variant" : "e697092fe729368e28a9f8b07101113921ae4f4670dc293b79a19a8ee1a2115f"
+}, {
+  "id" : "akka-actor_2.10",
+  "repository" : "com.typesafe.akka",
+  "commit" : "0bbf4380d6aab3926de7b5f64305f60a595b85dd",
+  "variant" : "0637fcd031f3bc8109dc699e81db7de978228aee8168e632fd0babdcb3f6d444"
+}, {
+  "id" : "akka-slf4j_2.10",
+  "repository" : "com.typesafe.akka",
+  "commit" : "dd830f4cf458c04d21073f313fe73812fcdf063e",
+  "variant" : "9b587252e8f59f98b609c2c3b2ae552306dcdf2bbc838788375e21a312dad08c"
+}, {
+  "id" : "netty-http-pipelining",
+  "repository" : "com.typesafe.netty",
+  "commit" : "fb938ced98c208dfbba0e7b656563c3fb85406ad",
+  "variant" : "29ad57f6c5fdc6effd2855febdc7e2a0318e036af181ef4163707ec8f747b6ed"
+}, {
+  "id" : "play-datacommons_2.10",
+  "repository" : "com.typesafe.play",
+  "commit" : "65c77e63db08128a759bc89275799bfc6e86cf20",
+  "variant" : "1ef2ca08d09d350c51aede2ce0b12e70a184f79e281b466daee14f35ac495e9b"
+}, {
+  "id" : "play-exceptions",
+  "repository" : "com.typesafe.play",
+  "commit" : "65c77e63db08128a759bc89275799bfc6e86cf20",
+  "variant" : "adda8a7700802a0da5bc1001b37f53879a6efd7a4b488b1c6013cf33116740d4"
+}, {
+  "id" : "play-functional_2.10",
+  "repository" : "com.typesafe.play",
+  "commit" : "65c77e63db08128a759bc89275799bfc6e86cf20",
+  "variant" : "e46f0d1d634c56212f9a17a0dc358e693f063b62e067dddea975743c73b4a02c"
+}, {
+  "id" : "play-iteratees_2.10",
+  "repository" : "com.typesafe.play",
+  "commit" : "65c77e63db08128a759bc89275799bfc6e86cf20",
+  "variant" : "0e38dc22e044858d8d347041fd6f4399356d92c756d281aa47a3e806055faee3"
+}, {
+  "id" : "play-json_2.10",
+  "repository" : "com.typesafe.play",
+  "commit" : "65c77e63db08128a759bc89275799bfc6e86cf20",
+  "variant" : "bc87702a7d21db03e42482ebd8e72102522ec9b6738c607462e6d83a146af0af"
+}, {
+  "id" : "play_2.10/config/system",
+  "repository" : "com.typesafe.play",
+  "commit" : "65c77e63db08128a759bc89275799bfc6e86cf20",
+  "variant" : "bbb552071e72802b4a1e55c99b81adff75f6f9ca37e7df0a85dc1cea401d2496"
+}, {
+  "id" : "sbt-link",
+  "repository" : "com.typesafe.play",
+  "commit" : "65c77e63db08128a759bc89275799bfc6e86cf20",
+  "variant" : "ad054536384962687b01ed5e9befb07f0d2e6a45d20666cf9ee65195dabb1130"
+}, {
+  "id" : "templates_2.10",
+  "repository" : "com.typesafe.play",
+  "commit" : "65c77e63db08128a759bc89275799bfc6e86cf20",
+  "variant" : "3c2a23de34fe746d6135541fb9035afdb5368838aa5bf693800eeb4f3f924381"
+}, {
+  "id" : "commons-codec",
+  "repository" : "commons-codec",
+  "commit" : "5ef2a99e86e90d10715167944b0a724060449db2",
+  "variant" : "50251b0b8581d9205925a556c2f1027c6cfa1a1dbbd85b53f6b473bcce7762e4"
+}, {
+  "id" : "commons-logging",
+  "repository" : "commons-logging",
+  "commit" : "1289b0aff0a168e1649b0cab689e394f3c6d2de9",
+  "variant" : "3b0bbb00d8037e1db477d2af6d02e7e54d0733e18875bcfded8b558788bed8a8"
+}, {
+  "id" : "netty",
+  "repository" : "io.netty",
+  "commit" : "3dd001c85497e9ceea0f9305214a25a9a29e4516",
+  "variant" : "d6b2499ae58cac8a957a32da1f68cf52f51873e33f0bdcc722f8d311366ec928"
+}, {
+  "id" : "jta",
+  "repository" : "javax.transaction",
+  "commit" : "6fced1976c0f826576c973132ef7c8f73051e85e",
+  "variant" : "16018c0241d0343d9bbdb9ddb4f54e2c387cb3dce2468550ce59f54f7c400057"
+}, {
+  "id" : "joda-time",
+  "repository" : "joda-time",
+  "commit" : "dfd68f800cdc6087c873bf83610de7dce260ddb7",
+  "variant" : "e8d3c519b4addd2a07f4b6f57a7021c6173aca522b0e654d70ee94df7d0d4218"
+}, {
+  "id" : "signpost-commonshttp4",
+  "repository" : "oauth.signpost",
+  "commit" : "8b9a4a735add0ae0c7fbd67093666ed49f9fdaa4",
+  "variant" : "1a539ff2ebc72155231841079d19d6dd85843b18393766bd945ce3df11fe3783"
+}, {
+  "id" : "signpost-core",
+  "repository" : "oauth.signpost",
+  "commit" : "8b9a4a735add0ae0c7fbd67093666ed49f9fdaa4",
+  "variant" : "407b474cc76b01e1072f6d49a210373dc946ac5ae6584dab027c91921a05b162"
+}, {
+  "id" : "commons-lang3",
+  "repository" : "org.apache.commons",
+  "commit" : "ec829e6894e1ec3c22ebc7c33d79732ca26f845d",
+  "variant" : "ec1513b136b68185019adad97bda13faf2028021e8ab94a09cbdfb4ef0cef4aa"
+}, {
+  "id" : "httpclient",
+  "repository" : "org.apache.httpcomponents",
+  "commit" : "c808ccf03f1127bea7f0534bf15c9cb4b64ca003",
+  "variant" : "a6c5d07f19e15e0aa16954833fa3b9805c41ddc2fee5f289685a5c501c838c3c"
+}, {
+  "id" : "httpcore",
+  "repository" : "org.apache.httpcomponents",
+  "commit" : "c808ccf03f1127bea7f0534bf15c9cb4b64ca003",
+  "variant" : "ac4e434064c992ace44ab19d129140d1a913f573cefe3a4e8cef6ba128526eb1"
+}, {
+  "id" : "javassist",
+  "repository" : "org.javassist",
+  "commit" : "d1206a4143aed8580e347d9e0158be4b0027c4a7",
+  "variant" : "1f3e4cbc2d41a567be3d93526b7823a21757ce73389708076e06adb50496b529"
+}, {
+  "id" : "joda-convert",
+  "repository" : "org.joda",
+  "commit" : "291c2e2588a2a4716e3d01f99e662148cc85cd28",
+  "variant" : "a90fe6c8a394450977704da395691b7f28e2d5154d05cbcacd1b0b04f8b0e2d6"
+}, {
+  "id" : "scala-library",
+  "repository" : "org.scala-lang",
+  "commit" : "3dfc58ccab40707a1ec0d346dd58321849f3d6e6",
+  "variant" : "483a720e45d1b0d00789f18b08148947483aa75d2e49de54128cb95966c26d96"
+}, {
+  "id" : "scala-library",
+  "repository" : "org.scala-lang",
+  "commit" : "3dfc58ccab40707a1ec0d346dd58321849f3d6e6",
+  "variant" : "c85e7ffcd2aac57a4f0e6515282e34c15a7534c5b5e07a05be3ebd1437102a9e"
+}, {
+  "id" : "scala-reflect",
+  "repository" : "org.scala-lang",
+  "commit" : "3dfc58ccab40707a1ec0d346dd58321849f3d6e6",
+  "variant" : "95b1e63e12e0f3a09deb8e575ee512d2813bef102c51b604ce15a1d1f0244e34"
+}, {
+  "id" : "scala-stm_2.10",
+  "repository" : "org.scala-stm",
+  "commit" : "a3b84a0c82f680bb93b4c14565c64e80272c112e",
+  "variant" : "e178b958cf636e72104c64f82acfd316448bca1749c52c2a9604b46f7c5c32a2"
+}, {
+  "id" : "jcl-over-slf4j",
+  "repository" : "org.slf4j",
+  "commit" : "b638f1ecddbd8e5d8848192b4cd5b284c9b9e76f",
+  "variant" : "df1e2a7a1559dcdf92ed9d8f345992c82a230b6610fb4d7cc91463d2031b7117"
+}, {
+  "id" : "jul-to-slf4j",
+  "repository" : "org.slf4j",
+  "commit" : "b638f1ecddbd8e5d8848192b4cd5b284c9b9e76f",
+  "variant" : "df53d3883fd1479a78cd950df875faf7526ad48e4dba254862eb800d584535c2"
+}, {
+  "id" : "slf4j-api",
+  "repository" : "org.slf4j",
+  "commit" : "b638f1ecddbd8e5d8848192b4cd5b284c9b9e76f",
+  "variant" : "b9c20bd8c7aa19d2fe7d75ba36464f39d7be77dc3ddd36864941f5362c403764"
+}, {
+  "id" : "xercesImpl",
+  "repository" : "xerces",
+  "commit" : "ce6d2a0f5d87654cf39704ed0c57c7b32dc611b6",
+  "variant" : "8a2fccc712e21ce64a0963e7781bce2591b913c3473a0a816270d12b8e65dbf2"
+}, {
+  "id" : "xml-apis",
+  "repository" : "xml-apis",
+  "commit" : "d0373b77ab89cc71d94cce0357088994dcddf154",
+  "variant" : "8cf7f66cd455401d31d0f09ea9994bf36fa762504f1a0be39a4199133314d5be"
+} ]
