@@ -1,0 +1,10 @@
+{
+  "attributes" : {
+    "configuration-hash" : [ "1fddcba896e3a485ba3a0d669602c19f3f385deaca44a6583f438217ed271adc" ],
+    "name" : [ "play-datacommons_2.10" ],
+    "organization" : [ "com.typesafe.play" ],
+    "version" : [ "2.2.2" ]
+  },
+  "artifacts" : [ ],
+  "requirements" : [ ]
+}
