@@ -1,0 +1,10 @@
+{
+  "attributes" : {
+    "configuration-hash" : [ "407d7bc3111c1d0fdcd7cc13e9b0cef174c80d309365d4196d3568a9b7565f13" ],
+    "name" : [ "play-iteratees_2.10" ],
+    "organization" : [ "com.typesafe.play" ],
+    "version" : [ "2.2.2" ]
+  },
+  "artifacts" : [ ],
+  "requirements" : [ ]
+}
