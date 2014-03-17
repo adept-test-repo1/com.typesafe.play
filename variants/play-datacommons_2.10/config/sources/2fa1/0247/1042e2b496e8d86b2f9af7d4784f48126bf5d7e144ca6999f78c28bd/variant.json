@@ -1,0 +1,18 @@
+{
+  "attributes" : {
+    "name" : [ "play-datacommons_2.10" ],
+    "organization" : [ "com.typesafe.play" ],
+    "version" : [ "2.2.2" ]
+  },
+  "artifacts" : [ {
+    "hash" : "0cf6907f26a5658bc3cb5665d12f95a58f964d96ccc9a5c7ab7b3f3c504bfb0e",
+    "attributes" : {
+      "configurations" : [ "sources" ]
+    },
+    "filename" : "play-datacommons_2.10-2.2.2-sources.jar"
+  } ],
+  "requirements" : [ {
+    "id" : "scala-library",
+    "constraints" : { }
+  } ]
+}
