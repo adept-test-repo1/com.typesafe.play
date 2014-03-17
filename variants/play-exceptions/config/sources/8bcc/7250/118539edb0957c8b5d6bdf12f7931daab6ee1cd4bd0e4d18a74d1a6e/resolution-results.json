@@ -1,0 +1,6 @@
+[ {
+  "id" : "play-exceptions/config/sources",
+  "repository" : "com.typesafe.play",
+  "commit" : "b524916bb3d928e10d4d90715eeb94375156b586",
+  "variant" : "8bcc7250118539edb0957c8b5d6bdf12f7931daab6ee1cd4bd0e4d18a74d1a6e"
+} ]
