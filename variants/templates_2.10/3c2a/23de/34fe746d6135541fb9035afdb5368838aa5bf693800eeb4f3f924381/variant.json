@@ -1,0 +1,10 @@
+{
+  "attributes" : {
+    "configuration-hash" : [ "a6435973f8ba99fa99679df9378a1b072ea96b662906b51e17ee0caebdcf4c40" ],
+    "name" : [ "templates_2.10" ],
+    "organization" : [ "com.typesafe.play" ],
+    "version" : [ "2.2.2" ]
+  },
+  "artifacts" : [ ],
+  "requirements" : [ ]
+}
