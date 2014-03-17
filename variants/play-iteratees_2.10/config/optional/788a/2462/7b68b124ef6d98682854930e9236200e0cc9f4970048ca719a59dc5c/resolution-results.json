@@ -1,0 +1,21 @@
+[ {
+  "id" : "config",
+  "repository" : "com.typesafe",
+  "commit" : "1fc244c4575f723392dabd8df477558f4b4b3aa8",
+  "variant" : "e697092fe729368e28a9f8b07101113921ae4f4670dc293b79a19a8ee1a2115f"
+}, {
+  "id" : "play-iteratees_2.10/config/optional",
+  "repository" : "com.typesafe.play",
+  "commit" : "f8626a0efa408f3ce466e50fc83d09cc39c18039",
+  "variant" : "788a24627b68b124ef6d98682854930e9236200e0cc9f4970048ca719a59dc5c"
+}, {
+  "id" : "scala-library",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "c85e7ffcd2aac57a4f0e6515282e34c15a7534c5b5e07a05be3ebd1437102a9e"
+}, {
+  "id" : "scala-stm_2.10",
+  "repository" : "org.scala-stm",
+  "commit" : "e929ecb909c8650211458b1a3e44413158c9500f",
+  "variant" : "e178b958cf636e72104c64f82acfd316448bca1749c52c2a9604b46f7c5c32a2"
+} ]
