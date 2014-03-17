@@ -1,0 +1,15 @@
+{
+  "attributes" : {
+    "name" : [ "play-exceptions" ],
+    "organization" : [ "com.typesafe.play" ],
+    "version" : [ "2.2.2" ]
+  },
+  "artifacts" : [ {
+    "hash" : "e0ad88ff7fbdf10a56f82068880d13becd15655202a62c9ca92776bc8995db13",
+    "attributes" : {
+      "configurations" : [ "master" ]
+    },
+    "filename" : "play-exceptions-2.2.2.jar"
+  } ],
+  "requirements" : [ ]
+}
