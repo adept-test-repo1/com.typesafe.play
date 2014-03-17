@@ -1,0 +1,11 @@
+[ {
+  "id" : "play-datacommons_2.10/config/sources",
+  "repository" : "com.typesafe.play",
+  "commit" : "39275e7cef122b9eb77115604387f4b4858651e6",
+  "variant" : "2fa102471042e2b496e8d86b2f9af7d4784f48126bf5d7e144ca6999f78c28bd"
+}, {
+  "id" : "scala-library",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "483a720e45d1b0d00789f18b08148947483aa75d2e49de54128cb95966c26d96"
+} ]
