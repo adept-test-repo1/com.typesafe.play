@@ -1,0 +1,495 @@
+{
+  "attributes" : {
+    "name" : [ "play_2.10" ],
+    "organization" : [ "com.typesafe.play" ],
+    "version" : [ "2.2.2" ]
+  },
+  "artifacts" : [ {
+    "hash" : "8682fd28a9f34923be6e766a248ef72f5320fcb1b87ca1dc6c4294395622f804",
+    "attributes" : {
+      "configurations" : [ "master" ]
+    },
+    "filename" : "play_2.10-2.2.2.jar"
+  } ],
+  "requirements" : [ {
+    "id" : "akka-actor_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "akka-actor_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "akka-actor_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "akka-actor_2.10/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "akka-slf4j_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "akka-slf4j_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "akka-slf4j_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "akka-slf4j_2.10/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "async-http-client",
+    "constraints" : { }
+  }, {
+    "id" : "async-http-client/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "async-http-client/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "async-http-client/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "commons-codec",
+    "constraints" : { }
+  }, {
+    "id" : "commons-codec/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "commons-codec/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "commons-codec/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "commons-lang3",
+    "constraints" : { }
+  }, {
+    "id" : "commons-lang3/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "commons-lang3/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "commons-lang3/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "commons-logging",
+    "constraints" : { }
+  }, {
+    "id" : "commons-logging/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "commons-logging/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "commons-logging/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "config",
+    "constraints" : { }
+  }, {
+    "id" : "config/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "config/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "config/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "httpclient",
+    "constraints" : { }
+  }, {
+    "id" : "httpclient/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "httpclient/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "httpclient/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "httpcore",
+    "constraints" : { }
+  }, {
+    "id" : "httpcore/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "httpcore/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "httpcore/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-annotations",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-annotations/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-annotations/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-annotations/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-core",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-core/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-core/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-core/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-databind",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-databind/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-databind/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-databind/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "javassist",
+    "constraints" : { }
+  }, {
+    "id" : "javassist/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "javassist/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "javassist/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "jcl-over-slf4j",
+    "constraints" : { }
+  }, {
+    "id" : "jcl-over-slf4j/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "jcl-over-slf4j/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "jcl-over-slf4j/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "joda-convert",
+    "constraints" : { }
+  }, {
+    "id" : "joda-convert/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "joda-convert/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "joda-convert/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "joda-time",
+    "constraints" : { }
+  }, {
+    "id" : "joda-time/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "joda-time/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "joda-time/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "jta",
+    "constraints" : { }
+  }, {
+    "id" : "jta/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "jta/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "jta/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "jul-to-slf4j",
+    "constraints" : { }
+  }, {
+    "id" : "jul-to-slf4j/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "jul-to-slf4j/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "jul-to-slf4j/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "logback-classic",
+    "constraints" : { }
+  }, {
+    "id" : "logback-classic/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "logback-classic/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "logback-classic/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "logback-core",
+    "constraints" : { }
+  }, {
+    "id" : "logback-core/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "logback-core/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "logback-core/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "netty",
+    "constraints" : { }
+  }, {
+    "id" : "netty-http-pipelining",
+    "constraints" : { }
+  }, {
+    "id" : "netty-http-pipelining/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "netty-http-pipelining/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "netty-http-pipelining/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "netty/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "netty/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "netty/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "play-datacommons_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "play-datacommons_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "play-datacommons_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "play-datacommons_2.10/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "play-exceptions",
+    "constraints" : { }
+  }, {
+    "id" : "play-exceptions/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "play-exceptions/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "play-exceptions/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "play-functional_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "play-functional_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "play-functional_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "play-functional_2.10/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "play-iteratees_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "play-iteratees_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "play-iteratees_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "play-iteratees_2.10/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "play-json_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "play-json_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "play-json_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "play-json_2.10/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "sbt-link",
+    "constraints" : { }
+  }, {
+    "id" : "sbt-link/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "sbt-link/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "sbt-link/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "scala-arm_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "scala-arm_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "scala-arm_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "scala-arm_2.10/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-core_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-core_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-core_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-core_2.10/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-file_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-file_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-file_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-file_2.10/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "scala-reflect",
+    "constraints" : { }
+  }, {
+    "id" : "scala-reflect/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "scala-reflect/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "scala-reflect/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "scala-stm_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "scala-stm_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "scala-stm_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "scala-stm_2.10/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "signpost-commonshttp4",
+    "constraints" : { }
+  }, {
+    "id" : "signpost-commonshttp4/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "signpost-commonshttp4/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "signpost-commonshttp4/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "signpost-core",
+    "constraints" : { }
+  }, {
+    "id" : "signpost-core/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "signpost-core/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "signpost-core/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "slf4j-api",
+    "constraints" : { }
+  }, {
+    "id" : "slf4j-api/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "slf4j-api/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "slf4j-api/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "templates_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "templates_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "templates_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "templates_2.10/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "xercesImpl",
+    "constraints" : { }
+  }, {
+    "id" : "xercesImpl/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "xercesImpl/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "xercesImpl/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "xml-apis",
+    "constraints" : { }
+  }, {
+    "id" : "xml-apis/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "xml-apis/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "xml-apis/config/runtime",
+    "constraints" : { }
+  } ]
+}
