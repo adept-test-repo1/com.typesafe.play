@@ -1,0 +1,10 @@
+{
+  "attributes" : {
+    "configuration-hash" : [ "c9939a5afb765d7e2204df5e60cf54047ea8ca4e8fa57ebc9606631813e0f89d" ],
+    "name" : [ "play-exceptions" ],
+    "organization" : [ "com.typesafe.play" ],
+    "version" : [ "2.2.2" ]
+  },
+  "artifacts" : [ ],
+  "requirements" : [ ]
+}
