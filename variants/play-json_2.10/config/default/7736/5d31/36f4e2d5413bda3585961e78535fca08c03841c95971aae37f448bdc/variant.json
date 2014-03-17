@@ -1,0 +1,159 @@
+{
+  "attributes" : {
+    "name" : [ "play-json_2.10" ],
+    "organization" : [ "com.typesafe.play" ],
+    "version" : [ "2.2.2" ]
+  },
+  "artifacts" : [ {
+    "hash" : "061facb39b9858f77d7066f2e8025df6050894dca1c4f24b0d6f5254c5d6d580",
+    "attributes" : {
+      "configurations" : [ "master" ]
+    },
+    "filename" : "play-json_2.10-2.2.2.jar"
+  } ],
+  "requirements" : [ {
+    "id" : "config",
+    "constraints" : { }
+  }, {
+    "id" : "config/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "config/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "config/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-annotations",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-annotations/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-annotations/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-annotations/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-core",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-core/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-core/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-core/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-databind",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-databind/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-databind/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-databind/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "joda-convert",
+    "constraints" : { }
+  }, {
+    "id" : "joda-convert/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "joda-convert/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "joda-convert/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "joda-time",
+    "constraints" : { }
+  }, {
+    "id" : "joda-time/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "joda-time/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "joda-time/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "play-datacommons_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "play-datacommons_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "play-datacommons_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "play-datacommons_2.10/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "play-functional_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "play-functional_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "play-functional_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "play-functional_2.10/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "play-iteratees_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "play-iteratees_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "play-iteratees_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "play-iteratees_2.10/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "scala-reflect",
+    "constraints" : { }
+  }, {
+    "id" : "scala-reflect/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "scala-reflect/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "scala-reflect/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "scala-stm_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "scala-stm_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "scala-stm_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "scala-stm_2.10/config/runtime",
+    "constraints" : { }
+  } ]
+}
