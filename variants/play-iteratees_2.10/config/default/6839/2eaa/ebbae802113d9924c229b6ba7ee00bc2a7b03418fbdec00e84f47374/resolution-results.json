@@ -1,0 +1,66 @@
+[ {
+  "id" : "config",
+  "repository" : "com.typesafe",
+  "commit" : "1fc244c4575f723392dabd8df477558f4b4b3aa8",
+  "variant" : "e697092fe729368e28a9f8b07101113921ae4f4670dc293b79a19a8ee1a2115f"
+}, {
+  "id" : "config/config/compile",
+  "repository" : "com.typesafe",
+  "commit" : "1fc244c4575f723392dabd8df477558f4b4b3aa8",
+  "variant" : "41d398e7c68b9d3d476fdb6de3dd36710fae9f0047a3929776e90fa891731699"
+}, {
+  "id" : "config/config/master",
+  "repository" : "com.typesafe",
+  "commit" : "1fc244c4575f723392dabd8df477558f4b4b3aa8",
+  "variant" : "d6f2e7290dc1e60e74d9b61b167b2bc21e56b546fa9998486ab4cafac9dd0035"
+}, {
+  "id" : "config/config/runtime",
+  "repository" : "com.typesafe",
+  "commit" : "1fc244c4575f723392dabd8df477558f4b4b3aa8",
+  "variant" : "41d398e7c68b9d3d476fdb6de3dd36710fae9f0047a3929776e90fa891731699"
+}, {
+  "id" : "play-iteratees_2.10/config/default",
+  "repository" : "com.typesafe.play",
+  "commit" : "1e120b92eba60c6cbe27fb52f67e46b0e85e7a34",
+  "variant" : "68392eaaebbae802113d9924c229b6ba7ee00bc2a7b03418fbdec00e84f47374"
+}, {
+  "id" : "scala-library",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "c85e7ffcd2aac57a4f0e6515282e34c15a7534c5b5e07a05be3ebd1437102a9e"
+}, {
+  "id" : "scala-library/config/compile",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "d6ca2e52b5a2ba478df339264d48374b8b846ccd9a67019bec7b9df22480a5a7"
+}, {
+  "id" : "scala-library/config/master",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "2a959c2c083d1c6c0d8ac7bdf758ceabcee1cff1a0a81bd66a54fdedf82c9c75"
+}, {
+  "id" : "scala-library/config/runtime",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "d6ca2e52b5a2ba478df339264d48374b8b846ccd9a67019bec7b9df22480a5a7"
+}, {
+  "id" : "scala-stm_2.10",
+  "repository" : "org.scala-stm",
+  "commit" : "e929ecb909c8650211458b1a3e44413158c9500f",
+  "variant" : "e178b958cf636e72104c64f82acfd316448bca1749c52c2a9604b46f7c5c32a2"
+}, {
+  "id" : "scala-stm_2.10/config/compile",
+  "repository" : "org.scala-stm",
+  "commit" : "e929ecb909c8650211458b1a3e44413158c9500f",
+  "variant" : "32384d5764629ba27ae51db159f3ce8a01a28d517154479a4ec8ba6f89a5d4dc"
+}, {
+  "id" : "scala-stm_2.10/config/master",
+  "repository" : "org.scala-stm",
+  "commit" : "e929ecb909c8650211458b1a3e44413158c9500f",
+  "variant" : "a611141a295d8aa566188b096c88446dfffdeb52d25199fc4e5ca60005fb2617"
+}, {
+  "id" : "scala-stm_2.10/config/runtime",
+  "repository" : "org.scala-stm",
+  "commit" : "e929ecb909c8650211458b1a3e44413158c9500f",
+  "variant" : "94cc5ea00fb781ade65de2c777b0c2da8d2755183de156182bcadb87654c09af"
+} ]
