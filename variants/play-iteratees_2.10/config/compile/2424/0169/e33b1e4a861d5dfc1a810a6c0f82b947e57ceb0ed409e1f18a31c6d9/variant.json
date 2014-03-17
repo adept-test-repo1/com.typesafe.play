@@ -1,0 +1,36 @@
+{
+  "attributes" : {
+    "name" : [ "play-iteratees_2.10" ],
+    "organization" : [ "com.typesafe.play" ],
+    "version" : [ "2.2.2" ]
+  },
+  "artifacts" : [ ],
+  "requirements" : [ {
+    "id" : "config",
+    "constraints" : { }
+  }, {
+    "id" : "config/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "config/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "scala-stm_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "scala-stm_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "scala-stm_2.10/config/master",
+    "constraints" : { }
+  } ]
+}
