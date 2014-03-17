@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "name" : [ "templates_2.10" ],
+    "organization" : [ "com.typesafe.play" ],
+    "version" : [ "2.2.2" ]
+  },
+  "artifacts" : [ ],
+  "requirements" : [ {
+    "id" : "scala-arm_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-core_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-file_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library",
+    "constraints" : { }
+  } ]
+}
