@@ -1,0 +1,63 @@
+{
+  "attributes" : {
+    "name" : [ "templates_2.10" ],
+    "organization" : [ "com.typesafe.play" ],
+    "version" : [ "2.2.2" ]
+  },
+  "artifacts" : [ {
+    "hash" : "2823e0075c97f4bc88b16412128a12bada5e620c9a9ce3d1d47420d29dd28b77",
+    "attributes" : {
+      "configurations" : [ "master" ]
+    },
+    "filename" : "templates_2.10-2.2.2.jar"
+  } ],
+  "requirements" : [ {
+    "id" : "scala-arm_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "scala-arm_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "scala-arm_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "scala-arm_2.10/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-core_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-core_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-core_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-core_2.10/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-file_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-file_2.10/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-file_2.10/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-file_2.10/config/runtime",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library/config/compile",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library/config/master",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library/config/runtime",
+    "constraints" : { }
+  } ]
+}
