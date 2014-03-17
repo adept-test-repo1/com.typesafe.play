@@ -1,0 +1,11 @@
+[ {
+  "id" : "play-functional_2.10/config/test",
+  "repository" : "com.typesafe.play",
+  "commit" : "e54665a2b615615645355bbc6804c41db6a70216",
+  "variant" : "7344ea6cd22c735922ad90c0a3fa4ed0aa935a6112388b5165a63f564751e183"
+}, {
+  "id" : "scala-library",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "483a720e45d1b0d00789f18b08148947483aa75d2e49de54128cb95966c26d96"
+} ]
