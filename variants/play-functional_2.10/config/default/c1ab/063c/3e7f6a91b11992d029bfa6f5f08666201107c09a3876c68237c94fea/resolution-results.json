@@ -1,0 +1,26 @@
+[ {
+  "id" : "play-functional_2.10/config/default",
+  "repository" : "com.typesafe.play",
+  "commit" : "c45ab6b57d41309ab7593b5952a70c7e00e9519d",
+  "variant" : "c1ab063c3e7f6a91b11992d029bfa6f5f08666201107c09a3876c68237c94fea"
+}, {
+  "id" : "scala-library",
+  "repository" : "org.scala-lang",
+  "commit" : "80a8f7aa2e8370da8b7d6b41cda39794ebe45c49",
+  "variant" : "483a720e45d1b0d00789f18b08148947483aa75d2e49de54128cb95966c26d96"
+}, {
+  "id" : "scala-library/config/compile",
+  "repository" : "org.scala-lang",
+  "commit" : "80a8f7aa2e8370da8b7d6b41cda39794ebe45c49",
+  "variant" : "5cb49d6dc9c4173454dba0840dd96c311502dbe515274dc4f9586e4fcfb7949d"
+}, {
+  "id" : "scala-library/config/master",
+  "repository" : "org.scala-lang",
+  "commit" : "80a8f7aa2e8370da8b7d6b41cda39794ebe45c49",
+  "variant" : "87bf537f0c1bce977a8d54afb12bb8bd095db2bf186828eeab97fdff6db99645"
+}, {
+  "id" : "scala-library/config/runtime",
+  "repository" : "org.scala-lang",
+  "commit" : "80a8f7aa2e8370da8b7d6b41cda39794ebe45c49",
+  "variant" : "5cb49d6dc9c4173454dba0840dd96c311502dbe515274dc4f9586e4fcfb7949d"
+} ]
