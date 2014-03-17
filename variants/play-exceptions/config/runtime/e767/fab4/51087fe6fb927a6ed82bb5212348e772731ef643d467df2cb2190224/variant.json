@@ -1,0 +1,9 @@
+{
+  "attributes" : {
+    "name" : [ "play-exceptions" ],
+    "organization" : [ "com.typesafe.play" ],
+    "version" : [ "2.2.2" ]
+  },
+  "artifacts" : [ ],
+  "requirements" : [ ]
+}
