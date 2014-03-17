@@ -1,0 +1,26 @@
+[ {
+  "id" : "scala-io-core_2.10",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "32c816557d2e6cab7305a24d8a02437c84a0e5e7",
+  "variant" : "a251a71617948e5ae486600be1af516d87d183e36a792c336e6b90660ff987bc"
+}, {
+  "id" : "scala-io-file_2.10",
+  "repository" : "com.github.scala-incubator.io",
+  "commit" : "32c816557d2e6cab7305a24d8a02437c84a0e5e7",
+  "variant" : "534b8a51ee78c8840954a5404917ff68d02b48ff360dd0e8baadbac4513fc64d"
+}, {
+  "id" : "scala-arm_2.10",
+  "repository" : "com.jsuereth",
+  "commit" : "7413def2ce2ec2fc2f19d87bfdd048b36ce4ca57",
+  "variant" : "19bbd46467e6f8ad003b1b58d77834915f6969b858f61a506ff388c06c4eeabb"
+}, {
+  "id" : "templates_2.10/config/test",
+  "repository" : "com.typesafe.play",
+  "commit" : "16e7c3b42dc12b555e0a582c928bbececf680dbf",
+  "variant" : "022c268fc794d2f864d2c3cae0c2803772197b49fa2f13e47fbff4c582ddd0ba"
+}, {
+  "id" : "scala-library",
+  "repository" : "org.scala-lang",
+  "commit" : "13ade03f98e7a2b9484d4329d912c91f8df433bf",
+  "variant" : "c85e7ffcd2aac57a4f0e6515282e34c15a7534c5b5e07a05be3ebd1437102a9e"
+} ]
