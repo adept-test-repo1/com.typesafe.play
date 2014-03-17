@@ -1,0 +1,135 @@
+{
+  "attributes" : {
+    "name" : [ "play_2.10" ],
+    "organization" : [ "com.typesafe.play" ],
+    "version" : [ "2.2.2" ]
+  },
+  "artifacts" : [ {
+    "hash" : "0ce76b6e3d92709bb2394c5eb1b4bae18c1d2b716a9c6d281f7853aed7086195",
+    "attributes" : {
+      "configurations" : [ "sources" ]
+    },
+    "filename" : "play_2.10-2.2.2-sources.jar"
+  } ],
+  "requirements" : [ {
+    "id" : "akka-actor_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "akka-slf4j_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "async-http-client",
+    "constraints" : { }
+  }, {
+    "id" : "commons-codec",
+    "constraints" : { }
+  }, {
+    "id" : "commons-lang3",
+    "constraints" : { }
+  }, {
+    "id" : "commons-logging",
+    "constraints" : { }
+  }, {
+    "id" : "config",
+    "constraints" : { }
+  }, {
+    "id" : "httpclient",
+    "constraints" : { }
+  }, {
+    "id" : "httpcore",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-annotations",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-core",
+    "constraints" : { }
+  }, {
+    "id" : "jackson-databind",
+    "constraints" : { }
+  }, {
+    "id" : "javassist",
+    "constraints" : { }
+  }, {
+    "id" : "jcl-over-slf4j",
+    "constraints" : { }
+  }, {
+    "id" : "joda-convert",
+    "constraints" : { }
+  }, {
+    "id" : "joda-time",
+    "constraints" : { }
+  }, {
+    "id" : "jta",
+    "constraints" : { }
+  }, {
+    "id" : "jul-to-slf4j",
+    "constraints" : { }
+  }, {
+    "id" : "logback-classic",
+    "constraints" : { }
+  }, {
+    "id" : "logback-core",
+    "constraints" : { }
+  }, {
+    "id" : "netty",
+    "constraints" : { }
+  }, {
+    "id" : "netty-http-pipelining",
+    "constraints" : { }
+  }, {
+    "id" : "play-datacommons_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "play-exceptions",
+    "constraints" : { }
+  }, {
+    "id" : "play-functional_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "play-iteratees_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "play-json_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "sbt-link",
+    "constraints" : { }
+  }, {
+    "id" : "scala-arm_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-core_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "scala-io-file_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "scala-library",
+    "constraints" : { }
+  }, {
+    "id" : "scala-reflect",
+    "constraints" : { }
+  }, {
+    "id" : "scala-stm_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "signpost-commonshttp4",
+    "constraints" : { }
+  }, {
+    "id" : "signpost-core",
+    "constraints" : { }
+  }, {
+    "id" : "slf4j-api",
+    "constraints" : { }
+  }, {
+    "id" : "templates_2.10",
+    "constraints" : { }
+  }, {
+    "id" : "xercesImpl",
+    "constraints" : { }
+  }, {
+    "id" : "xml-apis",
+    "constraints" : { }
+  } ]
+}
