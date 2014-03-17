@@ -1,0 +1,11 @@
+[ {
+  "id" : "sbt-link/config/sources",
+  "repository" : "com.typesafe.play",
+  "commit" : "bef22b09c35f56743826457b018eb8695f6d23c4",
+  "variant" : "9c2208b2960ce3d7719374429825013b567f4c2961201acd463c03dcf2dbbcdf"
+}, {
+  "id" : "javassist",
+  "repository" : "org.javassist",
+  "commit" : "d1206a4143aed8580e347d9e0158be4b0027c4a7",
+  "variant" : "1f3e4cbc2d41a567be3d93526b7823a21757ce73389708076e06adb50496b529"
+} ]
