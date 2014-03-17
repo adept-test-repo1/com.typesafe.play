@@ -1,0 +1,10 @@
+{
+  "attributes" : {
+    "configuration-hash" : [ "8d46854c41ea1c06cfaef85073275be9de6868b64e2bd3535ea5bc8113b5cd54" ],
+    "name" : [ "sbt-link" ],
+    "organization" : [ "com.typesafe.play" ],
+    "version" : [ "2.2.2" ]
+  },
+  "artifacts" : [ ],
+  "requirements" : [ ]
+}
